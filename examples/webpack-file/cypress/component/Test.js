@@ -1,5 +1,6 @@
 import React from 'react'
+import './styles.css'
 
-const Test = () => <div>Text</div>
+const Test = () => <div className={'test'}>Text</div>
 
 export default Test

@@ -9,6 +9,7 @@
     "only-covered": "../../node_modules/.bin/only-covered Test.js calc.js ParentComponent.js ChildComponent.js"
   },
   "devDependencies": {
+    "css-loader": "^3.5.3",
     "cypress-react-unit-test": "file:../..",
     "mini-css-extract-plugin": "^0.9.0"
   }
